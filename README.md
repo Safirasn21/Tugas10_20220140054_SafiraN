@@ -1,3 +1,6 @@
+# Link cara mengerjakan 
+https://drive.google.com/file/d/1QwQPmEaTT7TgBg9FkI2kvZrCn7aUq2Ws/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
