@@ -1,0 +1,39 @@
+.App-header {
+  background-color: #f58686;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  margin-bottom: 20px;
+}
+
+.App-title {
+  color: #ffffff;
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.App-intro {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.App-footer {
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+.custom-image {
+  width: 100%;
+  max-width: 300px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
